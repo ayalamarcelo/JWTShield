@@ -17,5 +17,5 @@ Content-Type: application/json
 }
 
 ### Token verification
-GET http://localhost:3000/api/auth/profile
-Authorization: Bearer {{token}}
+### GET http://localhost:3000/api/auth/profile
+### Authorization: Bearer {{token}}
