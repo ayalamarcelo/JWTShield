@@ -44,3 +44,6 @@ git checkout -b your-branch-name
 * Check Issue Status: Before starting work on a new feature or fix, check if there is a related Issue.
 
 * Stay Up-to-Date: Make sure to have the latest version of the repository before making contributions to avoid conflicts.
+
+
+All contributions are welcome.
