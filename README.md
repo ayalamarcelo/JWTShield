@@ -47,4 +47,4 @@ git push origin feature/your-feature
 If you find any issues or have suggestions for improvements, please report them using the GitHub Issue Tracker.
 
 ## Contact
-If you have any questions or need furthere assitance, open an issue.
+If you have any questions or need furthere assistance open an issue.
