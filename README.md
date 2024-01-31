@@ -1,4 +1,4 @@
-<h1 align="center">How to contribute to the project</h1>
+<h1 align="center">How to contribute</h1>
 
 <h2 align="left">Table of contents</h2>
 
