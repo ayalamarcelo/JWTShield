@@ -1,4 +1,3 @@
-// middleware/authMiddleware.mjs
 import jwt from 'jsonwebtoken';
 
 const SECRET_KEY = 'your_secret_key';
@@ -14,3 +13,4 @@ export function authenticateToken(req, res, next) {
     next();
   });
 }
+
